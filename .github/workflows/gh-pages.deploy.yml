@@ -32,7 +32,7 @@ jobs:
       - name: Add .nojekyll file
         run: touch ./out/.nojekyll
       - name: Deploy
-        uses: OloriAsabi/rentals@v2.4.0
+        uses: OloriAsabi/rentals@v1
         with:
           branch: gh-pages
           folder: out
