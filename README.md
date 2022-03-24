@@ -1,34 +1,39 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
 
-First, run the development server:
+Rentals 
+![IMG-3755](https://raw.githubusercontent.com/OloriAsabi/book-images/main/src/PROGRAM/ProjectImages/RENTALS.png)
+### Hi there, I'm Asabi
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+[website](https://oloriasabi.github.io/form-app/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/olorii_ashabi?color=1DA1F2&logo=twitter&style=for-the-badge)]
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## I'm a Developer and DJ!
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+I built this Rentals using Bayut API from Rapid API (https://rapidapi.com/apidojo/api/bayut/)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+this a Rentals App built to showcase Dubais finest real estates . With Bayut API, Searching for filters, Fetching house for sale and rent from specialized Rapid APIs, data filtering and much more.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+folder & file structure, hooks and refs
 
-## Learn More
+Creating a User Interface using Chakra UI and React-Icons
 
-To learn more about Next.js, take a look at the following resources:
+Working with UseState, UseEffects, UseRouter, UseContext, getStaticProps and getServerSideProps from Next and React
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Fetching data from unlimited sources using RapidAPI
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- 🌱 I’m currently learning NXT.js and Node.js
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects and build more projects.
+- ⚡ Fun fact: I love to read books and music
+### Connect with me:
+[<img align="left" alt="oloriasabi" width="22px" src="https://raw.githubusercontent.com/OloriAsabi/book-images/main/src/PROGRAM/2.png" />](https://www.oloriasabi.com)
+[<img align="left" alt="oloriasabi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://www.twitter.com/olorii_ashabi)
+[<img align="left" alt="oloriasabi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](http://linkedin.com/in/ashabilateefatoduntan)
+[<img align="left" alt="oloriasabi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/olori_asabi)
+--
+### Languages and Tools:
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
