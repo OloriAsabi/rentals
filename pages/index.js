@@ -6,6 +6,7 @@ import { baseURL, fetchApi } from '../utils/fetchApi';
 import Property from '../components/Property';
 
 const Banner = ({ purpose, title1, title2, desc1, desc2, imageUrl, buttonText, linkName }) => (
+
   <Flex flexWrap='wrap' justifyContent='center' alignItems='center' m='10'>
     { imageUrl ?
       <Image src={imageUrl} width={500} height={300} alt="rentals" /> : ''
